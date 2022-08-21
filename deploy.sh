@@ -4,5 +4,6 @@
 deploy java applications
 deploy python apps
 deploy in the dev environment
-janet
->>>>>>> dev
+deployment5 master
+deployment4
+deploy to staging
